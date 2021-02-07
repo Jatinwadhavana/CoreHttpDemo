@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CoreHttpDemo</string>
+    <string name="no">No</string>
+    <string name="name">Name</string>
+    <string name="dob">Date of Birth</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="show_list">Show List</string>
+    <string name="msg_username">Please provide username</string>
+    <string name="msg_password">Please provide password</string>
+    <string name="msg_loading">Please wait..</string>
+    <string name="tit_emp_details">Add Employee Details</string>
+    <string name="login">Login</string>
+    <string name="tit_emp_list">Employee List</string>
+</resources>
