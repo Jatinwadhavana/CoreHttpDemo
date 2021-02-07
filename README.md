@@ -4,7 +4,7 @@
 <b>Prepared by</b> Jatin Wadhawana<br>
 <b>Email</b> jatin.wadhavana@gmail.com
 
-# Points covered in this FitBit Demo
+# Points covered in this Demo
 
 - Core HTTP API calling<br>
 - Rx Java<br>
